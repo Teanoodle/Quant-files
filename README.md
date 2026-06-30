@@ -373,6 +373,7 @@ factor_panel.csv
 * [ ] 公司名称能够正确匹配；
 * [ ] PKL 和 CSV 来自同一个最终 DataFrame；
 * [ ] 三位成员均确认自己负责的因子版本。
+[SUC (1).csv](https://github.com/user-attachments/files/29498723/SUC.1.csv)
 
 ---
 
